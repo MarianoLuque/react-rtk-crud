@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-rtk-crud/static/css/main.598d18a1.css",
-    "main.js": "/react-rtk-crud/static/js/main.a2abf3f2.js",
+    "main.css": "/react-rtk-crud/static/css/main.39367a45.css",
+    "main.js": "/react-rtk-crud/static/js/main.c4016b26.js",
     "index.html": "/react-rtk-crud/index.html",
-    "main.598d18a1.css.map": "/react-rtk-crud/static/css/main.598d18a1.css.map",
-    "main.a2abf3f2.js.map": "/react-rtk-crud/static/js/main.a2abf3f2.js.map"
+    "main.39367a45.css.map": "/react-rtk-crud/static/css/main.39367a45.css.map",
+    "main.c4016b26.js.map": "/react-rtk-crud/static/js/main.c4016b26.js.map"
   },
   "entrypoints": [
-    "static/css/main.598d18a1.css",
-    "static/js/main.a2abf3f2.js"
+    "static/css/main.39367a45.css",
+    "static/js/main.c4016b26.js"
   ]
 }
